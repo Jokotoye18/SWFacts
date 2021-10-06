@@ -1,0 +1,488 @@
+{
+  "data": {
+    "allPlanets": {
+      "totalCount": 60,
+      "planets": [
+        {
+          "name": "Tatooine",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 4
+              },
+              {
+                "episodeID": 6
+              },
+              {
+                "episodeID": 1
+              },
+              {
+                "episodeID": 2
+              },
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Alderaan",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 4
+              },
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Yavin IV",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 4
+              }
+            ]
+          }
+        },
+        {
+          "name": "Hoth",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dagobah",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 5
+              },
+              {
+                "episodeID": 6
+              },
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Bespin",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Endor",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 6
+              }
+            ]
+          }
+        },
+        {
+          "name": "Naboo",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 6
+              },
+              {
+                "episodeID": 1
+              },
+              {
+                "episodeID": 2
+              },
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Coruscant",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 6
+              },
+              {
+                "episodeID": 1
+              },
+              {
+                "episodeID": 2
+              },
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Kamino",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 2
+              }
+            ]
+          }
+        },
+        {
+          "name": "Geonosis",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 2
+              }
+            ]
+          }
+        },
+        {
+          "name": "Utapau",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mustafar",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Kashyyyk",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Polis Massa",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mygeeto",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Felucia",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Cato Neimoidia",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Saleucami",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Stewjon",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Eriadu",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Corellia",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Rodia",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Nal Hutta",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Dantooine",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Bestine IV",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Ord Mantell",
+          "filmConnection": {
+            "films": [
+              {
+                "episodeID": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "unknown",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Trandosha",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Socorro",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Mon Cala",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Chandrila",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Sullust",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Toydaria",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Malastare",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Dathomir",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Ryloth",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Aleen Minor",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Vulpter",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Troiken",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Tund",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Haruun Kal",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Cerea",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Glee Anselm",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Iridonia",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Tholoth",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Iktotch",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Quermia",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Dorin",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Champala",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Mirial",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Serenno",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Concord Dawn",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Zolan",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Ojom",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Skako",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Muunilinst",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Shili",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Kalee",
+          "filmConnection": {
+            "films": []
+          }
+        },
+        {
+          "name": "Umbara",
+          "filmConnection": {
+            "films": []
+          }
+        }
+      ]
+    }
+  }
+}
